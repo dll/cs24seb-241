@@ -1,0 +1,13 @@
+Name,Type,Notes
+油气田智能管控平台,Requirement,
+一、油气藏地质管理 ,Requirement,
+二、工程管理  ,Requirement,
+四、SCADA与物联网监控,Requirement,
+五、首页一张图,Requirement,
+三、生产管理,Requirement,
+1单井基础档案管理,Requirement,
+2井斜轨迹与三维空间建模,Requirement,
+3油气水层与岩心管理,Requirement,
+功能描述,Requirement,创建/编辑/查询单井基础档案，含井号、井型、构造位置、地理位置、开钻/完钻日期、设计/完钻井深、运营单位等全套基础数据项，以结构化详情卡片和基础信息表呈现；在单井详情页支持一键跳转至GIS地图定位该井位置，同时查看邻井分布；支持Excel模板批量导入单井基础信息，及多条件联合查询后批量导出
+时间：28,Requirement,
+成本：23400,Requirement,
